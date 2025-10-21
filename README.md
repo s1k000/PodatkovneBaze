@@ -1,0 +1,2 @@
+# PodatkovneBaze
+Vaje in tema
